@@ -23,7 +23,7 @@
   <!--</Snippet_References>-->
   <!--<Snippet_AZMReferences>-->
   <ItemGroup>
-    <PackageReference Include="Azure.Monitor.OpenTelemetry.AspNetCore" Version="1.0.0-beta.4" />
+    <PackageReference Include="Azure.Monitor.OpenTelemetry.AspNetCore" Version="1.3.0" />
   </ItemGroup>
   <!--</Snippet_AZMReferences>-->
 </Project>
